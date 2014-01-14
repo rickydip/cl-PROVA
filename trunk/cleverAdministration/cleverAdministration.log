@@ -1,0 +1,25 @@
+org.clever.administration.CLI: showShell 2014-01-14 19:09:54,282 [main] ERROR CLI - java.lang.ClassNotFoundException
+org.clever.Common.XMPPCommunicator.CleverChatManagerListener: chatCreated 2014-01-14 19:29:54,879 [Smack Listener Processor (0)] INFO  XMPPCommunicator - Chat created with: cmricky@riccardo createdLocally: false
+org.clever.administration.ClusterManagerAdministrationTools: handleCleverMessage 2014-01-14 19:29:54,939 [Smack Listener Processor (0)] DEBUG ClusterManagerAdministrationTools - Received:
+<?xml version="1.0" encoding="UTF-8"?>
+<message id="1277964487" type="REPLY">
+  <source>cmricky</source>
+  <destination>ricky</destination>
+  <timestamp>Tue Jan 14 19:29:54 CET 2014</timestamp>
+  <replyToMsg>357811405</replyToMsg>
+  <hasReply>false</hasReply>
+  <body>
+    <result type="OBJECT" useAttachementId="true">
+      <module>InfoAgent</module>
+      <operation>listHostManager</operation>
+    </result>
+  </body>
+  <attachement id="0"><![CDATA[<list>
+  <org.clever.Common.Shared.HostEntityInfo>
+    <nick>hmricky</nick>
+    <active>true</active>
+  </org.clever.Common.Shared.HostEntityInfo>
+</list>]]></attachement>
+</message>
+
+

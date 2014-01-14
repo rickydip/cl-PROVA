@@ -4,3 +4,7 @@
 *.jar
 *.war
 *.ear
+/trunk/clevercloud/build/
+/trunk/clevercloud/dist/
+/trunk/cleverAdministration/dist/
+/trunk/cleverAdministration/build/

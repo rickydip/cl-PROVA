@@ -188,3 +188,6 @@ createvm -tn UbuVirt -h giusimone
 startvm -n 8ec411424d2a4b3eb4f22d44a7266994
 stopvm -n 8ec411424d2a4b3eb4f22d44a7266994
 deletevm -n 8ec411424d2a4b3eb4f22d44a7266994
+listmanager
+listhostmanager
+listhostmanager 

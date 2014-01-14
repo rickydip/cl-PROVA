@@ -2,8 +2,8 @@
 <configuration>
 	<HyperVisor>org.clever.HostManager.HyperVisorPlugins.Libvirt.HvlibVirt</HyperVisor>
 	<moduleName>HyperVisorAgent</moduleName>
-        
         <pluginParams>
-                <librarypath>/usr/lib/</librarypath>
+                <librarypath>/usr/lib/virtualbox</librarypath>
+
         </pluginParams>
 </configuration>

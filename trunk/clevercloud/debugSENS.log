@@ -1,0 +1,6 @@
+org.clever.HostManager.SOS.SOSAgent: <init> 2014-01-14 19:29:41,191 [main] INFO  debugLogger {84} - SOSAgent(agentName) avviato!!!!
+org.clever.HostManager.SOS.SOSAgent: <init> 2014-01-14 19:29:41,507 [main] DEBUG debugLogger {120} - setMethodInvokerHandler done!
+org.clever.HostManager.SOS.SOSModuleTransactional.SOSmodule: init 2014-01-14 19:29:41,542 [main] DEBUG debugLogger {74} - SOSmodule init
+org.clever.HostManager.SOS.SOSModuleTransactional.SOSmodule: init 2014-01-14 19:29:41,543 [main] DEBUG debugLogger {76} - filepath:cfg/configuration_Readers.xml
+org.clever.HostManager.SOS.SOSModuleTransactional.SOSmodule: init 2014-01-14 19:29:41,777 [main] DEBUG debugLogger {83} - file non trovato
+org.clever.HostManager.SOS.SOSModuleTransactional.SOSmodule: init 2014-01-14 19:29:42,761 [main] ERROR debugLogger {103} - SOSModuleTransactional: SAXException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.

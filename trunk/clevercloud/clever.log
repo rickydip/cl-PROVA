@@ -1,0 +1,917 @@
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: connect 2014-01-14 19:09:17,377 [main] INFO  XMPPCommunicator {138}- XMPP connected plain mode
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: authenticate 2014-01-14 19:09:18,649 [main] DEBUG XMPPCommunicator {332}- XMPP connection established with username: hmricky password: hmricky server: riccardo port: 5222
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: joinInRoom 2014-01-14 19:09:18,656 [main] INFO  XMPPCommunicator {242}- Creating room: room@conference.riccardo with nickname: hmricky
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: joinInRoom 2014-01-14 19:09:18,903 [main] INFO  XMPPCommunicator {248}- Created room: room@conference.riccardo with nickname: hmricky
+org.clever.Common.Initiator.Initiator: start 2014-01-14 19:09:18,953 [main] INFO  Initiator {492}- Lancio processo Initiator, pid: 10020@riccardo
+org.clever.Common.Initiator.Initiator: launchHostCoordinator 2014-01-14 19:09:18,953 [main] INFO  Initiator {436}- Lancio host coordinator
+org.clever.HostManager.HostCoordinator.HostCoordinator: init 2014-01-14 19:09:18,955 [main] DEBUG Host Coordinator {92}- CLASSPATH= dist/clever.jar
+org.clever.HostManager.HostCoordinator.HostCoordinator: init 2014-01-14 19:09:18,958 [main] DEBUG Host Coordinator {125}- ./libraries:/usr/java/packages/lib/i386:/lib:/usr/lib:./libraries
+org.clever.HostManager.HostCoordinator.HostCoordinator: init 2014-01-14 19:09:18,958 [main] INFO  Host Coordinator {127}- Initiator created
+org.clever.HostManager.HostCoordinator.HostCoordinator: init 2014-01-14 19:09:18,958 [main] INFO  Host Coordinator {137}- 
+
+ valori nuovi caricati: 4 10
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:09:18,962 [main] INFO  DispatcherAgentHM {84}- 
+istanzio ModuleCommunicator(agentName), dove agentName: DispatcherAgentHm
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:09:18,967 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: connect 2014-01-14 19:10:47,216 [main] INFO  XMPPCommunicator {138}- XMPP connected plain mode
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: authenticate 2014-01-14 19:10:47,799 [main] DEBUG XMPPCommunicator {332}- XMPP connection established with username: hmricky password: hmricky server: riccardo port: 5222
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: joinInRoom 2014-01-14 19:10:47,805 [main] INFO  XMPPCommunicator {242}- Creating room: room@conference.riccardo with nickname: hmricky
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: joinInRoom 2014-01-14 19:10:47,829 [main] INFO  XMPPCommunicator {248}- Created room: room@conference.riccardo with nickname: hmricky
+org.clever.Common.Initiator.Initiator: start 2014-01-14 19:10:47,833 [main] INFO  Initiator {492}- Lancio processo Initiator, pid: 10210@riccardo
+org.clever.Common.Initiator.Initiator: launchHostCoordinator 2014-01-14 19:10:47,833 [main] INFO  Initiator {436}- Lancio host coordinator
+org.clever.HostManager.HostCoordinator.HostCoordinator: init 2014-01-14 19:10:47,836 [main] DEBUG Host Coordinator {92}- CLASSPATH= dist/clever.jar
+org.clever.HostManager.HostCoordinator.HostCoordinator: init 2014-01-14 19:10:47,841 [main] DEBUG Host Coordinator {125}- ./libraries:/usr/java/packages/lib/i386:/lib:/usr/lib:./libraries
+org.clever.HostManager.HostCoordinator.HostCoordinator: init 2014-01-14 19:10:47,842 [main] INFO  Host Coordinator {127}- Initiator created
+org.clever.HostManager.HostCoordinator.HostCoordinator: init 2014-01-14 19:10:47,842 [main] INFO  Host Coordinator {137}- 
+
+ valori nuovi caricati: 4 10
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:10:47,846 [main] INFO  DispatcherAgentHM {84}- 
+istanzio ModuleCommunicator(agentName), dove agentName: DispatcherAgentHm
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:10:47,853 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: connect 2014-01-14 19:29:35,509 [main] INFO  XMPPCommunicator {138}- XMPP connected plain mode
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: authenticate 2014-01-14 19:29:37,078 [main] DEBUG XMPPCommunicator {332}- XMPP connection established with username: hmricky password: hmricky server: riccardo port: 5222
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: joinInRoom 2014-01-14 19:29:37,083 [main] INFO  XMPPCommunicator {242}- Creating room: room@conference.riccardo with nickname: hmricky
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: joinInRoom 2014-01-14 19:29:37,146 [main] INFO  XMPPCommunicator {248}- Created room: room@conference.riccardo with nickname: hmricky
+org.clever.Common.Initiator.Initiator: start 2014-01-14 19:29:37,484 [main] INFO  Initiator {492}- Lancio processo Initiator, pid: 2799@riccardo
+org.clever.Common.Initiator.Initiator: launchHostCoordinator 2014-01-14 19:29:37,484 [main] INFO  Initiator {436}- Lancio host coordinator
+org.clever.HostManager.HostCoordinator.HostCoordinator: init 2014-01-14 19:29:37,486 [main] DEBUG Host Coordinator {92}- CLASSPATH= dist/clever.jar
+org.clever.HostManager.HostCoordinator.HostCoordinator: init 2014-01-14 19:29:37,527 [main] DEBUG Host Coordinator {125}- ./libraries:/usr/java/packages/lib/i386:/lib:/usr/lib:./libraries
+org.clever.HostManager.HostCoordinator.HostCoordinator: init 2014-01-14 19:29:37,527 [main] INFO  Host Coordinator {127}- Initiator created
+org.clever.HostManager.HostCoordinator.HostCoordinator: init 2014-01-14 19:29:37,527 [main] INFO  Host Coordinator {137}- 
+
+ valori nuovi caricati: 4 10
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:29:37,607 [main] INFO  DispatcherAgentHM {84}- 
+istanzio ModuleCommunicator(agentName), dove agentName: DispatcherAgentHm
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:37,674 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:38,971 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:38,972 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.DispatcherAgentHmHM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:38,973 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DispatcherAgentHm
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:29:38,973 [main] INFO  DispatcherAgentHM {86}- 
+nfine istanza ModuleCommunicator
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: getHostName 2014-01-14 19:29:38,975 [main] DEBUG XMPPCommunicator {461}- Host name: riccardo
+org.clever.HostManager.Dispatcher.DispatcherAgent: initialization 2014-01-14 19:29:38,975 [main] DEBUG DispatcherAgentHM {160}- ?=)** hostId= riccardo
+org.clever.HostManager.Dispatcher.DispatcherAgent: sendNotification 2014-01-14 19:29:38,976 [main] DEBUG DispatcherAgentHM {169}- preparing notify clever message
+org.clever.HostManager.Dispatcher.NotificationThread: run 2014-01-14 19:29:38,977 [NotificationThread] DEBUG NotificationThread {74}- Start NotificationThread run!
+org.clever.HostManager.Dispatcher.DispatcherAgent: sendNotification 2014-01-14 19:29:40,375 [main] DEBUG DispatcherAgentHM {183}- notification sent
+org.clever.HostManager.Dispatcher.NotificationThread: run 2014-01-14 19:29:40,375 [NotificationThread] DEBUG NotificationThread {88}- £$£ target4
+org.clever.HostManager.Dispatcher.NotificationThread: run 2014-01-14 19:29:40,439 [NotificationThread] DEBUG NotificationThread {90}- ?=) target=null
+org.clever.HostManager.Dispatcher.NotificationThread: run 2014-01-14 19:29:40,439 [NotificationThread] DEBUG NotificationThread {94}- £$£ target5
+org.clever.Common.Initiator.ModuleFactory.ModuleFactory: getInstance 2014-01-14 19:29:40,482 [main] DEBUG ModuleFactory {169}- ModuleFactory created: org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:29:40,482 [main] INFO  InfoAgent {84}- 
+istanzio ModuleCommunicator(agentName), dove agentName: InfoAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:40,486 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:40,487 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:40,488 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.InfoAgentHM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:40,488 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/InfoAgent
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:29:40,489 [main] INFO  InfoAgent {86}- 
+nfine istanza ModuleCommunicator
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,490 [main] INFO  Host Coordinator {192}- # inizio lancio agente nell'HC
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,508 [main] INFO  ModuleFactory {130}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,512 [main] INFO  ModuleFactory {145}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,513 [main] INFO  ModuleFactory {152}- Thread for replacement started
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,514 [main] INFO  Host Coordinator {194}- #fine lancio agente nell'HC!
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,514 [main] DEBUG Host Coordinator {196}- Agent created: org.clever.HostManager.HyperVisor.HyperVisorAgent
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,514 [main] INFO  Host Coordinator {188}- # inizio lancio agente nell'HC
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,516 [main] INFO  ModuleFactory {86}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,516 [main] INFO  ModuleFactory {104}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,518 [main] INFO  ModuleFactory {111}- Thread for replacement started
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,518 [main] INFO  Host Coordinator {190}- #fine lancio agente nell'HC!
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,519 [main] DEBUG Host Coordinator {196}- Agent created: org.clever.HostManager.ImageManager.ImageManagerAgent
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,519 [main] INFO  Host Coordinator {188}- # inizio lancio agente nell'HC
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,520 [main] INFO  ModuleFactory {86}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,523 [main] INFO  ModuleFactory {104}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,528 [main] INFO  ModuleFactory {111}- Thread for replacement started
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,528 [main] INFO  Host Coordinator {190}- #fine lancio agente nell'HC!
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,528 [main] DEBUG Host Coordinator {196}- Agent created: org.clever.HostManager.Monitor.MonitorAgent
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,529 [main] INFO  Host Coordinator {188}- # inizio lancio agente nell'HC
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,535 [main] INFO  ModuleFactory {86}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,542 [main] INFO  ModuleFactory {104}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,545 [main] INFO  ModuleFactory {111}- Thread for replacement started
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,545 [main] INFO  Host Coordinator {190}- #fine lancio agente nell'HC!
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,546 [main] DEBUG Host Coordinator {196}- Agent created: org.clever.HostManager.NetworkManager.NetworkManagerAgent
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,546 [main] INFO  Host Coordinator {188}- # inizio lancio agente nell'HC
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,569 [main] INFO  ModuleFactory {86}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,578 [main] INFO  ModuleFactory {104}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,581 [main] INFO  ModuleFactory {111}- Thread for replacement started
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,581 [main] INFO  Host Coordinator {190}- #fine lancio agente nell'HC!
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,581 [main] DEBUG Host Coordinator {196}- Agent created: org.clever.HostManager.SOS.SOSAgent
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,582 [main] INFO  Host Coordinator {188}- # inizio lancio agente nell'HC
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,588 [main] INFO  ModuleFactory {86}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,589 [main] INFO  ModuleFactory {104}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:40,590 [main] INFO  ModuleFactory {111}- Thread for replacement started
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,591 [main] INFO  Host Coordinator {190}- #fine lancio agente nell'HC!
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,591 [main] DEBUG Host Coordinator {196}- Agent created: org.clever.HostManager.SAS.SASAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:40,594 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:40,595 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:40,596 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.HostCoordinatorHM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:40,597 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/HostCoordinator
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,597 [main] DEBUG Host Coordinator {214}- Module Communicator instantiated
+org.clever.HostManager.HostCoordinator.HostCoordinator: launchAgents 2014-01-14 19:29:40,597 [main] INFO  Host Coordinator {215}- HostCoordinator created
+org.clever.Common.Initiator.Initiator: VerificaNecessitaCM 2014-01-14 19:29:40,611 [main] INFO  Initiator {402}- Number of CM istantiated is 0
+org.clever.Common.Initiator.Initiator: VerificaNecessitaCM 2014-01-14 19:29:40,611 [main] INFO  Initiator {402}- Number of CM istantiated is 0
+org.clever.Common.Initiator.Initiator: start 2014-01-14 19:29:40,611 [main] INFO  Initiator {503}- Number of CM istantiated: truetreshold is: 1
+org.clever.Common.Initiator.Initiator: start 2014-01-14 19:29:40,612 [main] INFO  Initiator {504}- A new Cluster Manager is istantiated!
+org.clever.Common.Initiator.Initiator: launchClusterCoordinator 2014-01-14 19:29:40,612 [main] INFO  Initiator {412}- Launching cluster coordinator with classpath: dist/clever.jar
+org.clever.Common.Initiator.Initiator: launchClusterCoordinator 2014-01-14 19:29:40,612 [main] INFO  Initiator {417}- ClusterCoordinato launching: [Ljava.lang.String;@3c3daf
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:29:40,798 [main] INFO  MonitorAgent {84}- 
+istanzio ModuleCommunicator(agentName), dove agentName: MonitorAgent
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:29:40,878 [main] INFO  HypervisorAgent {84}- 
+istanzio ModuleCommunicator(agentName), dove agentName: HyperVisorAgent
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:29:40,883 [main] INFO  ImageManagerAgent {84}- 
+istanzio ModuleCommunicator(agentName), dove agentName: ImageManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:40,886 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:29:40,976 [main] INFO  NetworkManagerAgent {84}- 
+istanzio ModuleCommunicator(agentName), dove agentName: NetworkManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,011 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.HostManager.SAS.SASAgent: <init> 2014-01-14 19:29:41,111 [main] DEBUG SASAgentHm {86}- SASAgentHm start
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,184 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.HostManager.SOS.SOSAgent: <init> 2014-01-14 19:29:41,191 [main] INFO  debugLogger {84}- SOSAgent(agentName) avviato!!!!
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,218 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,219 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.MonitorAgentHM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,221 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/MonitorAgent
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:29:41,221 [main] INFO  MonitorAgent {86}- 
+nfine istanza ModuleCommunicator
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,222 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,249 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,253 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.HyperVisorAgentHM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,255 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/HyperVisorAgent
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:29:41,255 [main] INFO  HypervisorAgent {86}- 
+nfine istanza ModuleCommunicator
+org.clever.ClusterManager.ClusterCoordinator.Main: <init> 2014-01-14 19:29:41,262 [main] INFO  Main_ClusterCoordinator {68}- 
+ Prima del lancio del costruttore cc!
+
+org.clever.ClusterManager.ClusterCoordinator.Main: <init> 2014-01-14 19:29:41,289 [main] INFO  Main_ClusterCoordinator {70}- 
+Dopo il lancio del costruttore CC, si sta x avviare la start()
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: start 2014-01-14 19:29:41,290 [main] INFO  ClusterCoordinator {467}- 
+START DI CC
+
+org.clever.HostManager.HyperVisorPlugins.Libvirt.HvlibVirt: <init> 2014-01-14 19:29:41,313 [main] INFO  Libvirt plugin {121}- LibVirt plugin created: 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,313 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,336 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: init 2014-01-14 19:29:41,451 [main] DEBUG ClusterCoordinator {173}- Setting java.library.path ...
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,460 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: init 2014-01-14 19:29:41,460 [main] DEBUG ClusterCoordinator {194}- ./libraries:/usr/java/packages/lib/i386:/lib:/usr/lib:./libraries
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: init 2014-01-14 19:29:41,461 [main] INFO  ClusterCoordinator {222}- 
+
+&&&&& i nuovi valori caricati sono: 4 10
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: init 2014-01-14 19:29:41,462 [main] INFO  ClusterCoordinator {223}- 
+
+REPLACEAGENTS NEL CC: true
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: init 2014-01-14 19:29:41,463 [main] DEBUG ClusterCoordinator {247}- ./libraries:./libraries:/usr/java/packages/lib/i386:/lib:/usr/lib:./libraries:./libraries
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,464 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.ImageManagerAgentHM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,465 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/ImageManagerAgent
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:29:41,466 [main] INFO  ImageManagerAgent {86}- 
+nfine istanza ModuleCommunicator
+org.clever.HostManager.ImageManager.ImageManagerAgent: initialization 2014-01-14 19:29:41,466 [main] INFO  ImageManagerAgent {82}- 
+
+||||||!!!========££$$$$$$$$ Provo se il logger funziona ImageManagerAgent di HM!!!!
+
+
+org.clever.HostManager.ImageManager.ImageManagerAgent: initialization 2014-01-14 19:29:41,467 [main] INFO  ImageManagerAgent {100}- 
+
+||||||!!!========££$$$$$$$$ Provo se il logger funziona ImageManagerAgent di HM!!!!
+
+
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: connectionManagement 2014-01-14 19:29:41,468 [main] INFO  ClusterCoordinator {271}- Connection to server XMPP: riccardoat port: 5222
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,484 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,486 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.NetworkManagerAgentHM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,487 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/NetworkManagerAgent
+org.clever.Common.Communicator.Agent: start 2014-01-14 19:29:41,488 [main] INFO  NetworkManagerAgent {86}- 
+nfine istanza ModuleCommunicator
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,497 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,499 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.SASAgentHmHM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,501 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/SASAgentHm
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:41,501 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DispatcherAgentHm
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,504 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,506 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.SOSAgentHM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:41,507 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/SOSAgent
+org.clever.HostManager.SOS.SOSAgent: <init> 2014-01-14 19:29:41,507 [main] DEBUG debugLogger {120}- setMethodInvokerHandler done!
+org.clever.Common.SqliteDB.SQLite: openCon 2014-01-14 19:29:41,542 [main] DEBUG SQLiteDB {98}- openCon
+org.clever.HostManager.SOS.SOSModuleTransactional.SOSmodule: init 2014-01-14 19:29:41,542 [main] DEBUG debugLogger {74}- SOSmodule init
+org.clever.HostManager.NetworkManager.NetworkManagerAgent: initialization 2014-01-14 19:29:41,543 [main] INFO  NetworkManagerAgent {69}- NetworkManagerPlugin creating 
+org.clever.HostManager.SOS.SOSModuleTransactional.SOSmodule: init 2014-01-14 19:29:41,543 [main] DEBUG debugLogger {76}- filepath:cfg/configuration_Readers.xml
+org.clever.HostManager.NetworkManagerPlugins.Linux.NetworkManagerLinux: <init> 2014-01-14 19:29:41,669 [main] INFO  NetworkManagerLinux {75}- Network Manager plugin created: 
+org.clever.HostManager.NetworkManager.NetworkManagerAgent: initialization 2014-01-14 19:29:41,670 [main] DEBUG NetworkManagerAgent {74}- called init of org.clever.HostManager.NetworkManagerPlugins.Linux.NetworkManagerLinux
+org.clever.HostManager.NetworkManager.NetworkManagerAgent: initialization 2014-01-14 19:29:41,670 [main] INFO  NetworkManagerAgent {80}- NetworkManagerPlugin created 
+org.clever.HostManager.SOS.SOSModuleTransactional.SOSmodule: init 2014-01-14 19:29:41,777 [main] DEBUG debugLogger {83}- file non trovato
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:41,932 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DispatcherAgentHm on bus org.clever.Common.CommunicatorPlugins.DispatcherAgentHmHM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:41,943 [Thread-5] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@163a4ec
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: connect 2014-01-14 19:29:41,957 [main] INFO  XMPPCommunicator {138}- XMPP connected plain mode
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: connectionManagement 2014-01-14 19:29:41,958 [main] INFO  ClusterCoordinator {289}- authentication....
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: authenticate 2014-01-14 19:29:42,521 [main] DEBUG XMPPCommunicator {332}- XMPP connection established with username: cmricky password: cmricky server: riccardo port: 5222
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: joinInRoom 2014-01-14 19:29:42,528 [main] INFO  XMPPCommunicator {242}- Creating room: room@conference.riccardo with nickname: cmricky
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: joinInRoom 2014-01-14 19:29:42,555 [main] INFO  XMPPCommunicator {248}- Created room: room@conference.riccardo with nickname: cmricky
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: connectionManagement 2014-01-14 19:29:42,564 [main] INFO  ClusterCoordinator {297}- DispatcherAgent created
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:42,719 [main] INFO  DispatcherAgent {53}- 
+istanzio ModuleCommunicator(agentName), dove agentName: DispatcherAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:42,725 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.HostManager.SOS.SOSModuleTransactional.SOSmodule: init 2014-01-14 19:29:42,761 [main] ERROR debugLogger {103}- SOSModuleTransactional: SAXException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:42,828 [Thread-5] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.HostManager.Dispatcher.DispatcherAgent: sendNotification 2014-01-14 19:29:42,828 [Thread-5] DEBUG InfoAgent {169}- preparing notify clever message
+org.clever.HostManager.Dispatcher.DispatcherAgent: sendNotification 2014-01-14 19:29:42,834 [Thread-5] DEBUG InfoAgent {183}- notification sent
+org.clever.HostManager.Dispatcher.NotificationThread: run 2014-01-14 19:29:42,834 [NotificationThread] DEBUG NotificationThread {98}- £$£ target6
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:42,834 [Thread-5] DEBUG InfoAgent {135}- Method invoked: sendNotification
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:42,839 [Thread-5] DEBUG DbusCommunicationPlugin {193}- Sending reply: <null/>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:42,847 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DispatcherAgentHm : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DispatcherAgentHm</module>
+  <methodName>sendNotification</methodName>
+  <params>
+    <org.clever.Common.Communicator.Notification>
+      <id>SAS/Presence</id>
+      <agentId>SASAgentHm</agentId>
+    </org.clever.Common.Communicator.Notification>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:42,847 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:42,849 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:42,849 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<null/>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:42,852 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.DispatcherAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:42,853 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DispatcherAgent
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:42,853 [main] INFO  DispatcherAgent {55}- 
+nfine istanza ModuleCommunicator
+org.clever.ClusterManager.Dispatcher.DispatcherAgent: initialization 2014-01-14 19:29:42,867 [main] INFO  DispatcherAgent {77}- Dispatcher created
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: connectionManagement 2014-01-14 19:29:42,868 [main] INFO  ClusterCoordinator {302}- Dispatcher Plugin created
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:42,871 [main] INFO  InfoAgent {53}- 
+istanzio ModuleCommunicator(agentName), dove agentName: InfoAgent
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:42,867 [main] DEBUG ModuleCommunicator {117}- Result :null
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:42,881 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:42,881 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:42,883 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.InfoAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:42,883 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/InfoAgent
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:42,884 [main] INFO  InfoAgent {55}- 
+nfine istanza ModuleCommunicator
+org.clever.Common.Initiator.ModuleFactory.ModuleFactory: getInstance 2014-01-14 19:29:42,895 [main] DEBUG ModuleFactory {169}- ModuleFactory created: org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: connectionManagement 2014-01-14 19:29:42,896 [main] INFO  ClusterCoordinator {306}- InfoAgent for CM created
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: start 2014-01-14 19:29:42,896 [main] INFO  ClusterCoordinator {478}- Starting procedure launching Agents for CM
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: start 2014-01-14 19:29:42,896 [main] INFO  ClusterCoordinator {484}- This CM is FORCED to launch his Agents
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,904 [main] INFO  ModuleFactory {86}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,906 [main] INFO  ModuleFactory {104}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,908 [main] INFO  ModuleFactory {111}- Thread for replacement started
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: launchAgents 2014-01-14 19:29:42,909 [main] DEBUG ClusterCoordinator {373}- Agent created: org.clever.ClusterManager.StorageManager.StorageManagerAgent
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,912 [main] INFO  ModuleFactory {130}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,912 [main] INFO  ModuleFactory {145}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,914 [main] INFO  ModuleFactory {152}- Thread for replacement started
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: launchAgents 2014-01-14 19:29:42,914 [main] DEBUG ClusterCoordinator {373}- Agent created: org.clever.ClusterManager.Test.TestAgent
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,916 [main] INFO  ModuleFactory {86}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,918 [main] INFO  ModuleFactory {104}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,922 [main] INFO  ModuleFactory {111}- Thread for replacement started
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: launchAgents 2014-01-14 19:29:42,922 [main] DEBUG ClusterCoordinator {373}- Agent created: org.clever.ClusterManager.DatabaseManager.DatabaseManagerAgent
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,924 [main] INFO  ModuleFactory {86}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,931 [main] INFO  ModuleFactory {104}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,941 [main] INFO  ModuleFactory {111}- Thread for replacement started
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: launchAgents 2014-01-14 19:29:42,941 [main] DEBUG ClusterCoordinator {373}- Agent created: org.clever.ClusterManager.SAS.SASAgent
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,947 [main] INFO  ModuleFactory {86}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,962 [main] INFO  ModuleFactory {104}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,969 [main] INFO  ModuleFactory {111}- Thread for replacement started
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: launchAgents 2014-01-14 19:29:42,969 [main] DEBUG ClusterCoordinator {373}- Agent created: org.clever.ClusterManager.WebAgent.WebAgent
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,983 [main] INFO  ModuleFactory {86}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,994 [main] INFO  ModuleFactory {104}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:42,999 [main] INFO  ModuleFactory {111}- Thread for replacement started
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: launchAgents 2014-01-14 19:29:43,000 [main] DEBUG ClusterCoordinator {373}- Agent created: org.clever.ClusterManager.VirtualizationManager.VirtualizationManagerAgent
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:43,029 [main] INFO  ModuleFactory {86}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:43,030 [main] INFO  ModuleFactory {104}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:43,036 [main] INFO  ModuleFactory {111}- Thread for replacement started
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: launchAgents 2014-01-14 19:29:43,036 [main] DEBUG ClusterCoordinator {373}- Agent created: org.clever.ClusterManager.ESOSAgent.ESOSAgent
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: launchAgents 2014-01-14 19:29:43,037 [main] DEBUG ClusterCoordinator {404}- Brain created: org.clever.ClusterManager.Brain.SensorBrain
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: launchAgents 2014-01-14 19:29:43,037 [main] INFO  ClusterCoordinator {445}- Cluster Coordinator created
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: launchAgents 2014-01-14 19:29:43,038 [main] INFO  ClusterCoordinator {455}- Shutdown procedure stared
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: tryActiveCC 2014-01-14 19:29:43,038 [main] INFO  ClusterCoordinator {314}- Start Election thread....
+org.clever.ClusterManager.ClusterCoordinator.Main: <init> 2014-01-14 19:29:43,040 [main] INFO  Main_ClusterCoordinator {72}- 
+dopo la start()
+
+org.clever.Common.Initiator.ElectionThread: run 2014-01-14 19:29:43,040 [Thread-27] INFO  Election Thread for: cmricky {62}- Switching a cluster manager active
+org.clever.HostManager.ImageManager.ImageManagerAgent: initialization 2014-01-14 19:29:43,097 [main] INFO  ImageManagerAgent {125}- ImageManager created!
+org.clever.HostManager.MonitorPlugins.Sigar.LinuxHWMonitor: <init> 2014-01-14 19:29:43,160 [main] DEBUG org.clever.HostManager.MonitorPlugins.Sigar.LinuxHWMonitor {98}- Creating Sigar LinuxHwMonitor 
+org.clever.HostManager.Monitor.MonitorAgent: initialization 2014-01-14 19:29:43,203 [main] INFO  MonitorAgent {79}- MonitorPlugin Created
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: setAsActiveCC 2014-01-14 19:29:43,288 [Thread-27] DEBUG ClusterCoordinator {511}- devo settare il cm come active cc
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: joinInRoom 2014-01-14 19:29:43,289 [Thread-27] INFO  XMPPCommunicator {242}- Creating room: SHELL-room@conference.riccardo with nickname: cmricky
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: joinInRoom 2014-01-14 19:29:43,296 [Thread-27] INFO  XMPPCommunicator {248}- Created room: SHELL-room@conference.riccardo with nickname: cmricky
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: setAsActiveCC 2014-01-14 19:29:43,296 [Thread-27] DEBUG ClusterCoordinator {514}- settato il cm come active cc
+org.clever.Common.XMPPCommunicator.RoomListener: <init> 2014-01-14 19:29:43,297 [Thread-27] DEBUG RoomListener {56}- roomlistener added: 
+org.clever.ClusterManager.ClusterCoordinator.ClusterCoordinator: setAsActiveCC 2014-01-14 19:29:43,297 [Thread-27] INFO  ClusterCoordinator {530}- The number of CM in room CLEVER_MAIN is now: 1
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:43,362 [main] INFO  TestAgent {53}- 
+istanzio ModuleCommunicator(agentName), dove agentName: TestAgent
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:43,373 [main] INFO  CMAgent {53}- 
+istanzio ModuleCommunicator(agentName), dove agentName: VirtualizationManagerAgent
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:43,408 [main] INFO  StorageManagerAgent {53}- 
+istanzio ModuleCommunicator(agentName), dove agentName: StorageManagerAgent
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:43,434 [main] INFO  DatabaseManagerAgent {53}- 
+istanzio ModuleCommunicator(agentName), dove agentName: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,468 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.ClusterManager.SAS.SASAgent: <init> 2014-01-14 19:29:43,511 [main] INFO  SASAgent {122}- SASAgent CM !!!!
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,599 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,613 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,644 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,650 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:43,675 [main] INFO  ESOSAgent {53}- 
+istanzio ModuleCommunicator(agentName), dove agentName: ESOSAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,796 [main] INFO  DbusCommunicationPlugin {62}- Initializing the Dbus Communication plugin 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,804 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,806 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.TestAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,807 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/TestAgent
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:43,807 [main] INFO  TestAgent {55}- 
+nfine istanza ModuleCommunicator
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,900 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,904 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,904 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,900 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,905 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:43,907 [main] INFO  DatabaseManagerAgent {55}- 
+nfine istanza ModuleCommunicator
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,908 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.SASAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,909 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/SASAgent
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:43,910 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,912 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.VirtualizationManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,913 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/VirtualizationManagerAgent
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:43,914 [main] INFO  CMAgent {55}- 
+nfine istanza ModuleCommunicator
+org.clever.ClusterManager.VirtualizationManager.VirtualizationManagerAgent: initialization 2014-01-14 19:29:43,914 [main] INFO  VirtualizationManagerAgent {84}- Read Configuration VirtualManager!
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,922 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,926 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.StorageManagerAgentCM
+org.clever.ClusterManager.VirtualizationManagerPlugin.VirtualizationManagerClever: <init> 2014-01-14 19:29:43,927 [main] INFO  VirtualizationManager plugin {76}- VirtualizationManager plugin created: 
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:43,928 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:43,927 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/StorageManagerAgent
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:43,944 [main] INFO  StorageManagerAgent {55}- 
+nfine istanza ModuleCommunicator
+org.clever.ClusterManager.StorageManager.StorageManagerAgent: initialization 2014-01-14 19:29:43,945 [main] INFO  StorageManagerAgent {46}- Read Configuration StorageManager!
+org.clever.ClusterManager.StorageManager.StorageManagerAgent: initialization 2014-01-14 19:29:43,957 [main] INFO  StorageManagerAgent {63}- StorageManager Plugin instantiated !
+org.clever.ClusterManager.DatabaseManagerPlugins.Sedna.DbSedna: <init> 2014-01-14 19:29:43,988 [main] DEBUG DbSednaPlugin {66}- DbSedna plugin created!
+org.clever.ClusterManager.DatabaseManager.DatabaseManagerAgent: initialization 2014-01-14 19:29:43,989 [main] DEBUG DatabaseManagerAgent {94}- called init of org.clever.ClusterManager.DatabaseManagerPlugins.Sedna.DbSedna
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:44,044 [main] INFO  DbusCommunicationPlugin {65}- Creating the connection to the SessionBus 
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:44,045 [main] DEBUG DbusCommunicationPlugin {71}- Creating the Service on Dbus org.clever.Common.CommunicatorPlugins.ESOSAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: init 2014-01-14 19:29:44,046 [main] DEBUG DbusCommunicationPlugin {74}- Creating the Object on Dbus /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/ESOSAgent
+org.clever.Common.Communicator.CmAgent: start 2014-01-14 19:29:44,046 [main] INFO  ESOSAgent {55}- 
+nfine istanza ModuleCommunicator
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:44,159 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:44,167 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:44,176 [Thread-0] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@11416b3
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:44,205 [Thread-1] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@11416b3
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:44,323 [Thread-0] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:44,324 [Thread-1] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:44,609 [Thread-21] INFO  ModuleFactory {130}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:44,609 [Thread-21] INFO  ModuleFactory {145}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:44,616 [Thread-21] INFO  ModuleFactory {152}- Thread for replacement started
+org.clever.ClusterManager.DatabaseManagerPlugins.Sedna.DbSedna: checkAgentNode 2014-01-14 19:29:45,627 [Thread-1] ERROR DbSednaPlugin {863}- Check Agent node failed: SEDNA Message: ERROR FODC0002
+Error retrieving resource. 
+Details: Document 'cleverData'
+Query line: 1, column:1
+
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:45,628 [Thread-1] ERROR DatabaseManagerAgent {163}- Error: java.lang.NoSuchMethodException: org.clever.ClusterManager.DatabaseManager.DatabaseManagerAgent.checkAgentNode(java.lang.String, java.lang.String)
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:45,628 [Thread-1] ERROR ModuleCommunicator {86}- Error on method invocation: Error on plugin method invocation: Error checking node: org.xmldb.api.base.XMLDBException: SEDNA Message: ERROR FODC0002
+Error retrieving resource. 
+Details: Document 'cleverData'
+Query line: 1, column:1
+
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:45,632 [Thread-0] DEBUG DatabaseManagerAgent {172}- Method invoked: checkAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:45,638 [Thread-0] DEBUG DbusCommunicationPlugin {193}- Sending reply: <boolean>false</boolean>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:45,678 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DatabaseManagerAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DatabaseManagerAgent</module>
+  <methodName>checkAgent</methodName>
+  <params>
+    <string>SASAgent</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:45,679 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:45,680 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<boolean>false</boolean>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:45,693 [main] DEBUG ModuleCommunicator {117}- Result :false
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:45,693 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:45,701 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:45,705 [Thread-0] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@11416b3
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:45,709 [Thread-0] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:45,737 [Thread-1] ERROR DbusCommunicationPlugin {186}- Error CleverException , sending as Msg: org.clever.Common.Exceptions.CleverException: Error on plugin method invocation: Error checking node: org.xmldb.api.base.XMLDBException: SEDNA Message: ERROR FODC0002
+Error retrieving resource. 
+Details: Document 'cleverData'
+Query line: 1, column:1
+ 
+INVIERO: <org.clever.Common.Exceptions.CleverException>
+  <detailMessage>Error on plugin method invocation: Error checking node: org.xmldb.api.base.XMLDBException: SEDNA Message: ERROR FODC0002
+Error retrieving resource. 
+Details: Document &apos;cleverData&apos;
+Query line: 1, column:1
+</detailMessage>
+  <stackTrace>
+    <trace>org.clever.Common.Communicator.Agent.handleInvocation(Agent.java:164)</trace>
+    <trace>org.clever.Common.Communicator.ModuleCommunicator.handleMessage(ModuleCommunicator.java:83)</trace>
+    <trace>org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus.OnMessage(CommunicatorDbus.java:182)</trace>
+    <trace>sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</trace>
+    <trace>sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)</trace>
+    <trace>sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</trace>
+    <trace>java.lang.reflect.Method.invoke(Method.java:606)</trace>
+    <trace>org.freedesktop.dbus.AbstractConnection$1.run(AbstractConnection.java:785)</trace>
+    <trace>org.freedesktop.dbus.AbstractConnection$_workerthread.run(AbstractConnection.java:169)</trace>
+  </stackTrace>
+  <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
+    <c class="list"/>
+    <list reference="../c"/>
+  </suppressedExceptions>
+  <InternalException class="org.clever.Common.Exceptions.CleverException">
+    <detailMessage>Error checking node: org.xmldb.api.base.XMLDBException: SEDNA Message: ERROR FODC0002
+Error retrieving resource. 
+Details: Document &apos;cleverData&apos;
+Query line: 1, column:1
+</detailMessage>
+    <stackTrace>
+      <trace>org.clever.ClusterManager.DatabaseManagerPlugins.Sedna.DbSedna.checkAgentNode(DbSedna.java:864)</trace>
+      <trace>sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</trace>
+      <trace>sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)</trace>
+      <trace>sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</trace>
+      <trace>java.lang.reflect.Method.invoke(Method.java:606)</trace>
+      <trace>org.clever.Common.Communicator.Agent.handleInvocation(Agent.java:152)</trace>
+      <trace>org.clever.Common.Communicator.ModuleCommunicator.handleMessage(ModuleCommunicator.java:83)</trace>
+      <trace>org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus.OnMessage(CommunicatorDbus.java:182)</trace>
+      <trace>sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</trace>
+      <trace>sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)</trace>
+      <trace>sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</trace>
+      <trace>java.lang.reflect.Method.invoke(Method.java:606)</trace>
+      <trace>org.freedesktop.dbus.AbstractConnection$1.run(AbstractConnection.java:785)</trace>
+      <trace>org.freedesktop.dbus.AbstractConnection$_workerthread.run(AbstractConnection.java:169)</trace>
+    </stackTrace>
+    <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" reference="../../suppressedExceptions"/>
+  </InternalException>
+</org.clever.Common.Exceptions.CleverException>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:45,738 [Thread-1] DEBUG DbusCommunicationPlugin {193}- Sending reply: <org.clever.Common.Exceptions.CleverException>
+  <detailMessage>Error on plugin method invocation: Error checking node: org.xmldb.api.base.XMLDBException: SEDNA Message: ERROR FODC0002
+Error retrieving resource. 
+Details: Document &apos;cleverData&apos;
+Query line: 1, column:1
+</detailMessage>
+  <stackTrace>
+    <trace>org.clever.Common.Communicator.Agent.handleInvocation(Agent.java:164)</trace>
+    <trace>org.clever.Common.Communicator.ModuleCommunicator.handleMessage(ModuleCommunicator.java:83)</trace>
+    <trace>org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus.OnMessage(CommunicatorDbus.java:182)</trace>
+    <trace>sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</trace>
+    <trace>sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)</trace>
+    <trace>sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</trace>
+    <trace>java.lang.reflect.Method.invoke(Method.java:606)</trace>
+    <trace>org.freedesktop.dbus.AbstractConnection$1.run(AbstractConnection.java:785)</trace>
+    <trace>org.freedesktop.dbus.AbstractConnection$_workerthread.run(AbstractConnection.java:169)</trace>
+  </stackTrace>
+  <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
+    <c class="list"/>
+    <list reference="../c"/>
+  </suppressedExceptions>
+  <InternalException class="org.clever.Common.Exceptions.CleverException">
+    <detailMessage>Error checking node: org.xmldb.api.base.XMLDBException: SEDNA Message: ERROR FODC0002
+Error retrieving resource. 
+Details: Document &apos;cleverData&apos;
+Query line: 1, column:1
+</detailMessage>
+    <stackTrace>
+      <trace>org.clever.ClusterManager.DatabaseManagerPlugins.Sedna.DbSedna.checkAgentNode(DbSedna.java:864)</trace>
+      <trace>sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</trace>
+      <trace>sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)</trace>
+      <trace>sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</trace>
+      <trace>java.lang.reflect.Method.invoke(Method.java:606)</trace>
+      <trace>org.clever.Common.Communicator.Agent.handleInvocation(Agent.java:152)</trace>
+      <trace>org.clever.Common.Communicator.ModuleCommunicator.handleMessage(ModuleCommunicator.java:83)</trace>
+      <trace>org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus.OnMessage(CommunicatorDbus.java:182)</trace>
+      <trace>sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</trace>
+      <trace>sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)</trace>
+      <trace>sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</trace>
+      <trace>java.lang.reflect.Method.invoke(Method.java:606)</trace>
+      <trace>org.freedesktop.dbus.AbstractConnection$1.run(AbstractConnection.java:785)</trace>
+      <trace>org.freedesktop.dbus.AbstractConnection$_workerthread.run(AbstractConnection.java:169)</trace>
+    </stackTrace>
+    <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" reference="../../suppressedExceptions"/>
+  </InternalException>
+</org.clever.Common.Exceptions.CleverException>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:45,765 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DatabaseManagerAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DatabaseManagerAgent</module>
+  <methodName>checkAgentNode</methodName>
+  <params>
+    <string>VirtualizationManagerAgent</string>
+    <string>/Matching_VM_HM</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:45,765 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:45,765 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<org.clever.Common.Exceptions.CleverException>
+  <detailMessage>Error on plugin method invocation: Error checking node: org.xmldb.api.base.XMLDBException: SEDNA Message: ERROR FODC0002
+Error retrieving resource. 
+Details: Document &apos;cleverData&apos;
+Query line: 1, column:1
+</detailMessage>
+  <stackTrace>
+    <trace>org.clever.Common.Communicator.Agent.handleInvocation(Agent.java:164)</trace>
+    <trace>org.clever.Common.Communicator.ModuleCommunicator.handleMessage(ModuleCommunicator.java:83)</trace>
+    <trace>org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus.OnMessage(CommunicatorDbus.java:182)</trace>
+    <trace>sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</trace>
+    <trace>sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)</trace>
+    <trace>sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</trace>
+    <trace>java.lang.reflect.Method.invoke(Method.java:606)</trace>
+    <trace>org.freedesktop.dbus.AbstractConnection$1.run(AbstractConnection.java:785)</trace>
+    <trace>org.freedesktop.dbus.AbstractConnection$_workerthread.run(AbstractConnection.java:169)</trace>
+  </stackTrace>
+  <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
+    <c class="list"/>
+    <list reference="../c"/>
+  </suppressedExceptions>
+  <InternalException class="org.clever.Common.Exceptions.CleverException">
+    <detailMessage>Error checking node: org.xmldb.api.base.XMLDBException: SEDNA Message: ERROR FODC0002
+Error retrieving resource. 
+Details: Document &apos;cleverData&apos;
+Query line: 1, column:1
+</detailMessage>
+    <stackTrace>
+      <trace>org.clever.ClusterManager.DatabaseManagerPlugins.Sedna.DbSedna.checkAgentNode(DbSedna.java:864)</trace>
+      <trace>sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</trace>
+      <trace>sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)</trace>
+      <trace>sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</trace>
+      <trace>java.lang.reflect.Method.invoke(Method.java:606)</trace>
+      <trace>org.clever.Common.Communicator.Agent.handleInvocation(Agent.java:152)</trace>
+      <trace>org.clever.Common.Communicator.ModuleCommunicator.handleMessage(ModuleCommunicator.java:83)</trace>
+      <trace>org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus.OnMessage(CommunicatorDbus.java:182)</trace>
+      <trace>sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</trace>
+      <trace>sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)</trace>
+      <trace>sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</trace>
+      <trace>java.lang.reflect.Method.invoke(Method.java:606)</trace>
+      <trace>org.freedesktop.dbus.AbstractConnection$1.run(AbstractConnection.java:785)</trace>
+      <trace>org.freedesktop.dbus.AbstractConnection$_workerthread.run(AbstractConnection.java:169)</trace>
+    </stackTrace>
+    <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" reference="../../suppressedExceptions"/>
+  </InternalException>
+</org.clever.Common.Exceptions.CleverException>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:45,897 [main] DEBUG ModuleCommunicator {117}- Result :org.clever.Common.Exceptions.CleverException: Error on plugin method invocation: Error checking node: org.xmldb.api.base.XMLDBException: SEDNA Message: ERROR FODC0002
+Error retrieving resource. 
+Details: Document 'cleverData'
+Query line: 1, column:1
+
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:45,898 [main] DEBUG ModuleCommunicator {119}- Exception received :
+org.clever.ClusterManager.VirtualizationManager.VirtualizationManagerAgent: initialization 2014-01-14 19:29:45,898 [main] ERROR VirtualizationManagerAgent {154}- VirtualizationManager creation failed: org.clever.Common.Exceptions.CleverException: Error on plugin method invocation: Error checking node: org.xmldb.api.base.XMLDBException: SEDNA Message: ERROR FODC0002
+Error retrieving resource. 
+Details: Document 'cleverData'
+Query line: 1, column:1
+
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:47,711 [Thread-0] DEBUG DatabaseManagerAgent {172}- Method invoked: addAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:47,714 [Thread-0] DEBUG DbusCommunicationPlugin {193}- Sending reply: <null/>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:47,758 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DatabaseManagerAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DatabaseManagerAgent</module>
+  <methodName>addAgent</methodName>
+  <params>
+    <string>SASAgent</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:47,758 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:47,759 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<null/>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:47,769 [main] DEBUG ModuleCommunicator {117}- Result :null
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:47,769 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:47,773 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:47,777 [Thread-0] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@11416b3
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:47,781 [Thread-0] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.ClusterManager.DatabaseManager.DatabaseManagerAgent: initialization 2014-01-14 19:29:47,830 [main] INFO  DatabaseManagerAgent {100}- DbManagerPlugin created 
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:47,830 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DispatcherAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:47,834 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DispatcherAgent on bus org.clever.Common.CommunicatorPlugins.DispatcherAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:47,843 [Thread-5] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@1cbaf63
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:47,947 [Thread-5] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:47,948 [Thread-5] DEBUG InfoAgent {172}- Method invoked: subscribeNotification
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:47,954 [Thread-5] DEBUG DbusCommunicationPlugin {193}- Sending reply: <null/>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:47,993 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DispatcherAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DispatcherAgent</module>
+  <methodName>subscribeNotification</methodName>
+  <params>
+    <string>DatabaseManagerAgent</string>
+    <string>PRESENCE/HM</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:47,994 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:47,994 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<null/>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:48,002 [main] DEBUG ModuleCommunicator {117}- Result :null
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:48,328 [Thread-29] INFO  ModuleFactory {130}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:48,328 [Thread-29] INFO  ModuleFactory {145}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:48,331 [Thread-29] INFO  ModuleFactory {152}- Thread for replacement started
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:48,783 [Thread-0] DEBUG DatabaseManagerAgent {172}- Method invoked: checkAgentNode
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:48,786 [Thread-0] DEBUG DbusCommunicationPlugin {193}- Sending reply: <boolean>false</boolean>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:48,828 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DatabaseManagerAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DatabaseManagerAgent</module>
+  <methodName>checkAgentNode</methodName>
+  <params>
+    <string>SASAgent</string>
+    <string>/advertisements</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:48,829 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:48,829 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<boolean>false</boolean>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:48,832 [main] DEBUG ModuleCommunicator {117}- Result :false
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:48,833 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:48,835 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:48,838 [Thread-0] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@11416b3
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:48,842 [Thread-0] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:48,998 [Thread-0] DEBUG DatabaseManagerAgent {172}- Method invoked: insertNode
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,002 [Thread-0] DEBUG DbusCommunicationPlugin {193}- Sending reply: <null/>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,038 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DatabaseManagerAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DatabaseManagerAgent</module>
+  <methodName>insertNode</methodName>
+  <params>
+    <string>SASAgent</string>
+    <string>&lt;advertisements&gt;&lt;/advertisements&gt;</string>
+    <string>into</string>
+    <string></string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,038 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,038 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<null/>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,042 [main] DEBUG ModuleCommunicator {117}- Result :null
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,043 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,045 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,048 [Thread-0] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@11416b3
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:49,051 [Thread-0] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:49,053 [Thread-0] DEBUG DatabaseManagerAgent {172}- Method invoked: checkAgentNode
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,055 [Thread-0] DEBUG DbusCommunicationPlugin {193}- Sending reply: <boolean>false</boolean>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,098 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DatabaseManagerAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DatabaseManagerAgent</module>
+  <methodName>checkAgentNode</methodName>
+  <params>
+    <string>SASAgent</string>
+    <string>/capabilities</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,098 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,098 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<boolean>false</boolean>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,101 [main] DEBUG ModuleCommunicator {117}- Result :false
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,101 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,104 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,107 [Thread-0] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@11416b3
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:49,111 [Thread-0] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:49,186 [Thread-0] DEBUG DatabaseManagerAgent {172}- Method invoked: insertNode
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,194 [Thread-0] DEBUG DbusCommunicationPlugin {193}- Sending reply: <null/>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,207 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DatabaseManagerAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DatabaseManagerAgent</module>
+  <methodName>insertNode</methodName>
+  <params>
+    <string>SASAgent</string>
+    <string>&lt;capabilities&gt;&lt;Contents&gt;&lt;AcceptAdvertisements&gt;true&lt;/AcceptAdvertisements&gt;&lt;SubscriptionOfferingList&gt;&lt;/SubscriptionOfferingList&gt;&lt;/Contents&gt;&lt;ServiceIdentification&gt;&lt;/ServiceIdentification&gt;&lt;ServiceProvider&gt;&lt;/ServiceProvider&gt;&lt;OperationsMetadata&gt;&lt;/OperationsMetadata&gt;&lt;/capabilities&gt;</string>
+    <string>into</string>
+    <string></string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,207 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,208 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<null/>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,210 [main] DEBUG ModuleCommunicator {117}- Result :null
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,211 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,216 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,220 [Thread-0] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@11416b3
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:49,226 [Thread-0] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:49,227 [Thread-0] DEBUG DatabaseManagerAgent {172}- Method invoked: checkAgentNode
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,229 [Thread-0] DEBUG DbusCommunicationPlugin {193}- Sending reply: <boolean>false</boolean>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,270 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DatabaseManagerAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DatabaseManagerAgent</module>
+  <methodName>checkAgentNode</methodName>
+  <params>
+    <string>SASAgent</string>
+    <string>/subscriptions</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,270 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,270 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<boolean>false</boolean>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,272 [main] DEBUG ModuleCommunicator {117}- Result :false
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,272 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,274 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,277 [Thread-0] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@11416b3
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:49,281 [Thread-0] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:49,323 [Thread-0] DEBUG DatabaseManagerAgent {172}- Method invoked: insertNode
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,325 [Thread-0] DEBUG DbusCommunicationPlugin {193}- Sending reply: <null/>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,327 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DatabaseManagerAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DatabaseManagerAgent</module>
+  <methodName>insertNode</methodName>
+  <params>
+    <string>SASAgent</string>
+    <string>&lt;subscriptions&gt;&lt;/subscriptions&gt;</string>
+    <string>into</string>
+    <string></string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,327 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,327 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<null/>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,337 [main] DEBUG ModuleCommunicator {117}- Result :null
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,340 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,343 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,347 [Thread-0] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@11416b3
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:49,353 [Thread-0] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:49,353 [Thread-0] DEBUG DatabaseManagerAgent {172}- Method invoked: getAgentPrefix
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,356 [Thread-0] DEBUG DbusCommunicationPlugin {193}- Sending reply: <string>document(&quot;cleverData&quot;)/clever/cluster[@id=&apos;clustermain&apos;]/cm/agent[@name=&apos;SASAgent&apos;]</string>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,397 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DatabaseManagerAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DatabaseManagerAgent</module>
+  <methodName>getAgentPrefix</methodName>
+  <params>
+    <string>SASAgent</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,397 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,397 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<string>document(&quot;cleverData&quot;)/clever/cluster[@id=&apos;clustermain&apos;]/cm/agent[@name=&apos;SASAgent&apos;]</string>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,400 [main] DEBUG ModuleCommunicator {117}- Result :document("cleverData")/clever/cluster[@id='clustermain']/cm/agent[@name='SASAgent']
+org.clever.ClusterManager.SAS.SASAgent: initDb 2014-01-14 19:29:49,400 [main] DEBUG SASAgent {510}-  initDb Done
+org.clever.ClusterManager.SAS.SASAgent: query 2014-01-14 19:29:49,400 [main] DEBUG SASAgent {353}- ***Agent Name= SASAgent
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,400 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,402 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,404 [Thread-0] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@11416b3
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:49,408 [Thread-0] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.ClusterManager.DatabaseManagerPlugins.Sedna.DbSedna: query 2014-01-14 19:29:49,409 [Thread-0] DEBUG DbSednaPlugin {535}- Executing query xpath=/clever/cluster[@id='clustermain']/cm/agent[@name='SASAgent']/advertisements
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:49,410 [Thread-0] DEBUG DatabaseManagerAgent {172}- Method invoked: query
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,412 [Thread-0] DEBUG DbusCommunicationPlugin {193}- Sending reply: <string>&lt;advertisements/&gt;</string>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,454 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DatabaseManagerAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DatabaseManagerAgent</module>
+  <methodName>query</methodName>
+  <params>
+    <string>SASAgent</string>
+    <string>/advertisements</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,455 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,455 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<string>&lt;advertisements/&gt;</string>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,457 [main] DEBUG ModuleCommunicator {117}- Result :<advertisements/>
+org.clever.ClusterManager.SAS.SASAgent: query 2014-01-14 19:29:49,458 [main] DEBUG SASAgent {353}- ***Agent Name= SASAgent
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,458 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,460 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,462 [Thread-0] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@11416b3
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:49,466 [Thread-0] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.ClusterManager.DatabaseManagerPlugins.Sedna.DbSedna: query 2014-01-14 19:29:49,467 [Thread-0] DEBUG DbSednaPlugin {535}- Executing query xpath=/clever/cluster[@id='clustermain']/cm/agent[@name='SASAgent']/subscriptions
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:49,468 [Thread-0] DEBUG DatabaseManagerAgent {172}- Method invoked: query
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,470 [Thread-0] DEBUG DbusCommunicationPlugin {193}- Sending reply: <string>&lt;subscriptions/&gt;</string>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,512 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DatabaseManagerAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DatabaseManagerAgent</module>
+  <methodName>query</methodName>
+  <params>
+    <string>SASAgent</string>
+    <string>/subscriptions</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,513 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,513 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<string>&lt;subscriptions/&gt;</string>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,515 [main] DEBUG ModuleCommunicator {117}- Result :<subscriptions/>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,516 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DispatcherAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,518 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DispatcherAgent on bus org.clever.Common.CommunicatorPlugins.DispatcherAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,521 [Thread-5] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@1cbaf63
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:49,529 [Thread-5] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:49,529 [Thread-5] DEBUG InfoAgent {172}- Method invoked: subscribeNotification
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,531 [Thread-5] DEBUG DbusCommunicationPlugin {193}- Sending reply: <null/>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,571 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DispatcherAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DispatcherAgent</module>
+  <methodName>subscribeNotification</methodName>
+  <params>
+    <string>SASAgent</string>
+    <string>SAS/Presence</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,571 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,571 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<null/>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,575 [main] DEBUG ModuleCommunicator {117}- Result :null
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,575 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DispatcherAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,578 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DispatcherAgent on bus org.clever.Common.CommunicatorPlugins.DispatcherAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,581 [Thread-5] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@1cbaf63
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:49,586 [Thread-5] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:49,586 [Thread-5] DEBUG InfoAgent {172}- Method invoked: subscribeNotification
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,590 [Thread-5] DEBUG DbusCommunicationPlugin {193}- Sending reply: <null/>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,630 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DispatcherAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DispatcherAgent</module>
+  <methodName>subscribeNotification</methodName>
+  <params>
+    <string>SASAgent</string>
+    <string>SAS/Advertise</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,631 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,631 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<null/>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,633 [main] DEBUG ModuleCommunicator {117}- Result :null
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,633 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DispatcherAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,635 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DispatcherAgent on bus org.clever.Common.CommunicatorPlugins.DispatcherAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,638 [Thread-5] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@1cbaf63
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:49,642 [Thread-5] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:49,642 [Thread-5] DEBUG InfoAgent {172}- Method invoked: subscribeNotification
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,644 [Thread-5] DEBUG DbusCommunicationPlugin {193}- Sending reply: <null/>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,688 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DispatcherAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DispatcherAgent</module>
+  <methodName>subscribeNotification</methodName>
+  <params>
+    <string>SASAgent</string>
+    <string>SAS/Publish</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,688 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,688 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<null/>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,691 [main] DEBUG ModuleCommunicator {117}- Result :null
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,691 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DispatcherAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,694 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DispatcherAgent on bus org.clever.Common.CommunicatorPlugins.DispatcherAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,697 [Thread-5] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@1cbaf63
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:49,702 [Thread-5] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:49,702 [Thread-5] DEBUG InfoAgent {172}- Method invoked: subscribeNotification
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,704 [Thread-5] DEBUG DbusCommunicationPlugin {193}- Sending reply: <null/>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,747 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DispatcherAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DispatcherAgent</module>
+  <methodName>subscribeNotification</methodName>
+  <params>
+    <string>SASAgent</string>
+    <string>SAS/CancelAdvertisement</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,747 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,747 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<null/>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,750 [main] DEBUG ModuleCommunicator {117}- Result :null
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,750 [main] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DispatcherAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,752 [main] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DispatcherAgent on bus org.clever.Common.CommunicatorPlugins.DispatcherAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,756 [Thread-5] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@1cbaf63
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:49,763 [Thread-5] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:49,763 [Thread-5] DEBUG InfoAgent {172}- Method invoked: subscribeNotification
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:49,765 [Thread-5] DEBUG DbusCommunicationPlugin {193}- Sending reply: <null/>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,806 [main] DEBUG DbusCommunicationPlugin {103}- Sending message to : DispatcherAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>DispatcherAgent</module>
+  <methodName>subscribeNotification</methodName>
+  <params>
+    <string>SASAgent</string>
+    <string>SAS/RenewAdvertisement</string>
+  </params>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:49,806 [main] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,806 [main] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<null/>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:49,809 [main] DEBUG ModuleCommunicator {117}- Result :null
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:50,070 [Thread-31] INFO  ModuleFactory {130}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:50,071 [Thread-31] INFO  ModuleFactory {145}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:50,072 [Thread-31] INFO  ModuleFactory {152}- Thread for replacement started
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:52,701 [Thread-33] INFO  ModuleFactory {130}- New process launched!
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:52,702 [Thread-33] INFO  ModuleFactory {145}- Thread ReplacementAgentDead abilitated
+org.clever.Common.Initiator.ModuleFactory.ModuleFactoryMultiTasking: createAgent 2014-01-14 19:29:52,704 [Thread-33] INFO  ModuleFactory {152}- Thread for replacement started
+org.clever.Common.XMPPCommunicator.RoomListener: processPacket 2014-01-14 19:29:54,688 [Smack Listener Processor (0)] DEBUG RoomListener {65}- messaggio xmpp: org.jivesoftware.smack.packet.Message@8bbe0d0d
+org.clever.ClusterManager.Dispatcher.DispatcherAgent: handleCleverMessage 2014-01-14 19:29:54,701 [Smack Listener Processor (0)] DEBUG InfoAgent {152}- received: org.clever.Common.XMPPCommunicator.CleverMessage@99d73
+org.clever.Common.Communicator.ThreadMessageDispatcher: run 2014-01-14 19:29:54,702 [messageDispatcher] DEBUG ThreadDispatcher {98}- £$% thread aperto
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:54,787 [ThreadMessageHandler] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: InfoAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:54,796 [ThreadMessageHandler] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/InfoAgent on bus org.clever.Common.CommunicatorPlugins.InfoAgentCM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:54,803 [Thread-5] DEBUG DbusCommunicationPlugin {181}- Invoking handleMessage of : org.clever.Common.Communicator.ModuleCommunicator@7bceec
+org.clever.Common.Communicator.ModuleCommunicator: handleMessage 2014-01-14 19:29:54,809 [Thread-5] DEBUG ModuleCommunicator {80}- >:( sono qui
+org.clever.Common.Communicator.Agent: handleInvocation 2014-01-14 19:29:54,810 [Thread-5] DEBUG InfoAgent {135}- Method invoked: listHostManager
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: OnMessage 2014-01-14 19:29:54,814 [Thread-5] DEBUG DbusCommunicationPlugin {193}- Sending reply: <list>
+  <org.clever.Common.Shared.HostEntityInfo>
+    <nick>hmricky</nick>
+    <active>true</active>
+  </org.clever.Common.Shared.HostEntityInfo>
+</list>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:54,854 [ThreadMessageHandler] DEBUG DbusCommunicationPlugin {103}- Sending message to : InfoAgent : <org.clever.Common.Communicator.MethodInvoker>
+  <module>InfoAgent</module>
+  <methodName>listHostManager</methodName>
+  <hasReturn>true</hasReturn>
+</org.clever.Common.Communicator.MethodInvoker>
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:29:54,854 [ThreadMessageHandler] DEBUG DbusCommunicationPlugin {105}- Sender Connection Closed
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:54,854 [ThreadMessageHandler] DEBUG ModuleCommunicator {108}- After sendRecv with has return :<list>
+  <org.clever.Common.Shared.HostEntityInfo>
+    <nick>hmricky</nick>
+    <active>true</active>
+  </org.clever.Common.Shared.HostEntityInfo>
+</list>
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:29:54,866 [ThreadMessageHandler] DEBUG ModuleCommunicator {117}- Result :[org.clever.Common.Shared.HostEntityInfo@1927371]
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: sendMessage 2014-01-14 19:29:54,871 [ThreadMessageHandler] DEBUG XMPPCommunicator {421}- Sending message: <?xml version="1.0" encoding="UTF-8"?>
+<message id="1277964487" type="REPLY">
+  <source>cmricky</source>
+  <destination>ricky</destination>
+  <timestamp>Tue Jan 14 19:29:54 CET 2014</timestamp>
+  <replyToMsg>357811405</replyToMsg>
+  <hasReply>false</hasReply>
+  <body>
+    <result type="OBJECT" useAttachementId="true">
+      <module>InfoAgent</module>
+      <operation>listHostManager</operation>
+    </result>
+  </body>
+  <attachement id="0"><![CDATA[<list>
+  <org.clever.Common.Shared.HostEntityInfo>
+    <nick>hmricky</nick>
+    <active>true</active>
+  </org.clever.Common.Shared.HostEntityInfo>
+</list>]]></attachement>
+</message>
+
+
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: sendMessage 2014-01-14 19:29:54,871 [ThreadMessageHandler] DEBUG XMPPCommunicator {427}- Chat toward ricky@riccardo not found
+org.clever.Common.XMPPCommunicator.CleverChatManagerListener: chatCreated 2014-01-14 19:29:54,873 [ThreadMessageHandler] INFO  XMPPCommunicator {90}- Chat created with: ricky@riccardo createdLocally: true
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: sendMessage 2014-01-14 19:29:54,873 [ThreadMessageHandler] DEBUG XMPPCommunicator {434}- sending message
+org.clever.Common.XMPPCommunicator.ConnectionXMPP: sendMessage 2014-01-14 19:29:54,874 [ThreadMessageHandler] DEBUG XMPPCommunicator {436}- message sent
+org.clever.Common.Communicator.ThreadMessageDispatcher: threadTerminated 2014-01-14 19:29:54,874 [ThreadMessageHandler] DEBUG ThreadDispatcher {78}- £$% thread chiuso
+org.clever.Common.Communicator.ModuleCommunicator: invoke 2014-01-14 19:30:02,405 [Thread-6] DEBUG ModuleCommunicator {101}- Before sendRecv with has return: DatabaseManagerAgent
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:30:02,602 [Thread-6] DEBUG DbusCommunicationPlugin {91}- Creating connection to remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentHM
+org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus: sendRecv 2014-01-14 19:30:02,610 [Thread-6] ERROR DbusCommunicationPlugin {119}- Error while sending message with sendRecv.
+ Remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentHM
+Check if this object exists.
+org.freedesktop.dbus.exceptions.DBusException: Failed to create proxy object for /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent exported by org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentHM. Reason: The name org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentHM was not provided by any .service files
+	at org.freedesktop.dbus.DBusConnection.dynamicProxy(DBusConnection.java:375)
+	at org.freedesktop.dbus.DBusConnection.getRemoteObject(DBusConnection.java:532)
+	at org.clever.Common.CommunicatorPlugins.Dbus.CommunicatorDbus.sendRecv(CommunicatorDbus.java:92)
+	at org.clever.Common.Communicator.ModuleCommunicator.invoke(ModuleCommunicator.java:104)
+	at org.clever.HostManager.ImageManagerPlugins.ImageManagerClever.ImageManager$ThreadCloser.run(ImageManager.java:876)
+org.clever.HostManager.ImageManagerPlugins.ImageManagerClever.ImageManager$ThreadCloser: run 2014-01-14 19:30:02,612 [Thread-6] ERROR ImageManager {883}- Error deleting host info from the database : Error while sending message with sendRecv.
+ Remote object /org/clever/Common/CommunicatorPlugins/Dbus/CleverDbusInterface/DatabaseManagerAgent on bus org.clever.Common.CommunicatorPlugins.DatabaseManagerAgentHM
+Check if this object exists.
